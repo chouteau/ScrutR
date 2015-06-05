@@ -1,0 +1,12 @@
+/nuget
+/.vs/ScrutR/v14
+/packages/Ariane.2.8.0.3/lib
+/packages
+/src/ScrutR/bin
+/src/ScrutR/obj
+/src/ScrutR.Client35/bin/Debug
+/src/ScrutR.Client35/obj/Debug
+/src/ScrutR.SqlRepository/bin
+/src/ScrutR.SqlRepository/obj
+/src/ScrutR.Tests/bin/Debug
+/src/ScrutR.Tests/obj/Debug
